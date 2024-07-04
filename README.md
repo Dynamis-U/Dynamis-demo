@@ -1,4 +1,4 @@
 # Dynamis-demo
 This is my first Git Repository.
 <br>
-Author - Ujjwal Sahu
+Author - Ujjwal (IERT)
